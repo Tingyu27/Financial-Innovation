@@ -51,6 +51,6 @@ NTU 109-1 Financial Innovation
 #### Algorithmic Trading
 * The prediction accuracy of the stock price cannot guarantee profits.
 * Add rule-based filter signal to define when to trade! 
-* Example: Moving Average Strategy [Code]
+* Example: Moving Average Strategy [Code](https://github.com/Tingyu27/Financial-Innovation/blob/master/Moving%20Average%20Strategy%20Backtesting.ipynb)
 #### Reinforcement Learning for Trading
 * Reinforcement learning does not predict price behaviors in the learning process.
