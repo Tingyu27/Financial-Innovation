@@ -24,7 +24,7 @@ NTU 109-1 Financial Innovation
 
 [講義](https://docs.google.com/presentation/d/e/2PACX-1vRH1IQE4XEWN9frgTXbtE22KQBd8PsIp-WabfkGLMYEkchQ5X4BoUmzVtGeLOANUQNBA755vDlESPs1/pub?start=false&loop=false&delayms=3000&slide=id.g9d4832b8a0_0_56)
 
-#### Bonds related code
+#### Bonds related code [Code]
 * set up a bond
 
   ql.MakeSchedule(effectiveDate, terminationDate, frequency)
@@ -43,3 +43,14 @@ NTU 109-1 Financial Innovation
   X.dirtyPrice(yield, dayCount, compounding, frequency)
 #### Quantlib plotting
 * Neet to convert data from `tuple` to `list`
+***
+## Week 8
+### Quantopian Tutorials
+[講義](https://docs.google.com/presentation/d/e/2PACX-1vSsVHyOz-PNWlKyg8J1Ayyv6T2D_6UX-KiNWuls_mzlwnOsAIVcxGAj6YqXIMlOjS-6sLYenGEwxc19/pub?start=false&loop=false&delayms=3000&slide=id.g9d4832b8a0_0_56)
+
+#### Algorithmic Trading
+* The prediction accuracy of the stock price cannot guarantee profits.
+* Add rule-based filter signal to define when to trade! 
+* Example: Moving Average Strategy [Code]
+#### Reinforcement Learning for Trading
+* Reinforcement learning does not predict price behaviors in the learning process.
