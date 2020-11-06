@@ -24,7 +24,7 @@ NTU 109-1 Financial Innovation
 
 [講義](https://docs.google.com/presentation/d/e/2PACX-1vRH1IQE4XEWN9frgTXbtE22KQBd8PsIp-WabfkGLMYEkchQ5X4BoUmzVtGeLOANUQNBA755vDlESPs1/pub?start=false&loop=false&delayms=3000&slide=id.g9d4832b8a0_0_56)
 
-#### Bonds related code [Code]
+#### Bonds related code [Code](https://github.com/Tingyu27/Financial-Innovation/blob/master/Week7%20Bond's%20Price%20&%20YTM%20-%20Quantlib%20plotting%20example.ipynb)
 * set up a bond
 
   ql.MakeSchedule(effectiveDate, terminationDate, frequency)
