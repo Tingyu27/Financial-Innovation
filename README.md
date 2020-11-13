@@ -59,5 +59,5 @@ NTU 109-1 Financial Innovation
 ### Target Redemption Forward
 [講義](https://docs.google.com/presentation/d/e/2PACX-1vQVcx7YvFAdAZadihCZiQAzAhiDJTwTkFwlqKeyZsXJ-wD9eBRz9APAbNhseJb20xtGxJ2GFqo0tnn0/pub?start=false&loop=false&delayms=3000&slide=id.g9d4832b8a0_0_56)
 
-#### Target Redemption Forward Pricing
+#### Target Redemption Forward Payoff
 #### FinTech 創新主題
