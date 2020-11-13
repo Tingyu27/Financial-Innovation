@@ -54,3 +54,10 @@ NTU 109-1 Financial Innovation
 * Example: Moving Average Strategy [Code](https://github.com/Tingyu27/Financial-Innovation/blob/master/Moving%20Average%20Strategy%20Backtesting.ipynb)
 #### Reinforcement Learning for Trading
 * Reinforcement learning does not predict price behaviors in the learning process.
+***
+## Week 9
+### Target Redemption Forward
+[講義](https://docs.google.com/presentation/d/e/2PACX-1vQVcx7YvFAdAZadihCZiQAzAhiDJTwTkFwlqKeyZsXJ-wD9eBRz9APAbNhseJb20xtGxJ2GFqo0tnn0/pub?start=false&loop=false&delayms=3000&slide=id.g9d4832b8a0_0_56)
+
+#### Target Redemption Forward Pricing
+#### FinTech 創新主題
