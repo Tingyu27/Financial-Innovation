@@ -63,5 +63,5 @@ NTU 109-1 Financial Innovation
 #### FinTech 創新主題
 ***
 ## Week 11
-### XXX
+### HW & Final Project
 [講義](https://docs.google.com/presentation/d/e/2PACX-1vTHPRCRwOuu_doq868LSMBzsriPAWGebXCWgQJ5crn-OUheIjmoTVUpWjIT2bHNCeGs_vtwcX2bEF7Z/pub?start=false&loop=false&delayms=3000&slide=id.g9d4832b8a0_0_56)
