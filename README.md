@@ -24,7 +24,7 @@ NTU 109-1 Financial Innovation
 
 [講義](https://docs.google.com/presentation/d/e/2PACX-1vRH1IQE4XEWN9frgTXbtE22KQBd8PsIp-WabfkGLMYEkchQ5X4BoUmzVtGeLOANUQNBA755vDlESPs1/pub?start=false&loop=false&delayms=3000&slide=id.g9d4832b8a0_0_56)
 
-#### Bonds related [Code](https://github.com/Tingyu27/Financial-Innovation/blob/master/Week7%20Bond's%20Price%20&%20YTM%20-%20Quantlib%20plotting%20example.ipynb)
+#### Bonds related Code
 * set up a bond
 
   ql.MakeSchedule(effectiveDate, terminationDate, frequency)
@@ -51,7 +51,7 @@ NTU 109-1 Financial Innovation
 #### Algorithmic Trading
 * The prediction accuracy of the stock price cannot guarantee profits.
 * Add rule-based filter signal to define when to trade! 
-* Example: Moving Average Strategy [Code](https://github.com/Tingyu27/Financial-Innovation/blob/master/Moving%20Average%20Strategy%20Backtesting.ipynb)
+* Example: Moving Average Strategy Code
 #### Reinforcement Learning for Trading
 * Reinforcement learning does not predict price behaviors in the learning process.
 ***
