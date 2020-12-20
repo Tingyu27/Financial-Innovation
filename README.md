@@ -73,4 +73,4 @@ NTU 109-1 Financial Innovation
 * CNN model accuracy is 0.9889
 ## HW3: use LSTM and CNN model to classify customized candlestick pattern (at least 3 classes)  
 * Under LSTM model, 50 iterations does better than 10 iterations.
-* Overall, the prediction accuracy of CNN is better than that of LSTM.
+* Overall, the prediction accuracy of CNN is better than that of LSTM under 10 iterations.
