@@ -1,6 +1,21 @@
 # Financial-Innovation
 NTU 109-1 Financial Innovation
 ***
+## HW1: collect at least two customized rule-based patterns with indices
+* Use Hanging man, hammer, dark cloud cover, and piercing pattern as the detecting signals
+[zip file](https://github.com/Tingyu27/Financial-Innovation/blob/master/HW1_R08723024_%E9%83%AD%E5%BA%AD%E5%A6%A4.rar)
+[folder](https://github.com/Tingyu27/Financial-Innovation/tree/master/HW1_R08723024_%E9%83%AD%E5%BA%AD%E5%A6%A4)
+## HW2: use LSTM and CNN model to classify MNIST dataset with at least 90%
+* LSTM model accuracy is 0.9560
+* CNN model accuracy is 0.9889
+[zip file](https://github.com/Tingyu27/Financial-Innovation/blob/master/HW2_R08723024_%E9%83%AD%E5%BA%AD%E5%A6%A4.rar)
+[folder](https://github.com/Tingyu27/Financial-Innovation/tree/master/HW2_R08723024_%E9%83%AD%E5%BA%AD%E5%A6%A4)
+## HW3: use LSTM and CNN model to classify customized candlestick pattern (at least 3 classes)  
+* Under LSTM model, 50 iterations does better than 10 iterations.
+* Overall, the prediction accuracy of CNN is better than that of LSTM under 10 iterations.
+[zip file](https://github.com/Tingyu27/Financial-Innovation/blob/master/HW3_R08723024_%E9%83%AD%E5%BA%AD%E5%A6%A4.rar)
+[folder](https://github.com/Tingyu27/Financial-Innovation/tree/master/HW3_R08723024_%E9%83%AD%E5%BA%AD%E5%A6%A4)
+***
 ## Week 1
 [課程內容](https://docs.google.com/presentation/d/e/2PACX-1vTAQ0ns9cSIGCE4Ypfysfb0hEMVPQZmEzAgJWAyAzpU3xwQTzC5hwuVR2O4SXUHOIdjfWfe7qQTyINl/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ***
@@ -66,11 +81,4 @@ NTU 109-1 Financial Innovation
 ### HW & Final Project
 [講義](https://docs.google.com/presentation/d/e/2PACX-1vTHPRCRwOuu_doq868LSMBzsriPAWGebXCWgQJ5crn-OUheIjmoTVUpWjIT2bHNCeGs_vtwcX2bEF7Z/pub?start=false&loop=false&delayms=3000&slide=id.g9d4832b8a0_0_56)
 ***
-## HW1: collect at least two customized rule-based patterns with indices
-* Use Hanging man, hammer, dark cloud cover, and piercing pattern as the detecting signals
-## HW2: use LSTM and CNN model to classify MNIST dataset with at least 90%
-* LSTM model accuracy is 0.9560
-* CNN model accuracy is 0.9889
-## HW3: use LSTM and CNN model to classify customized candlestick pattern (at least 3 classes)  
-* Under LSTM model, 50 iterations does better than 10 iterations.
-* Overall, the prediction accuracy of CNN is better than that of LSTM under 10 iterations.
+
