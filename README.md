@@ -1,6 +1,18 @@
 # Financial-Innovation
 NTU 109-1 Financial Innovation
 ***
+## 個人專題報告: 銀行財富管理第三方整合平台
+* 影片連結：https://youtu.be/g7i093_WbWM
+
+  個人專題報告：[檔案](https://github.com/Tingyu27/Financial-Innovation/blob/master/%E5%80%8B%E4%BA%BA%E5%B0%88%E9%A1%8C%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A_R08723024_%E9%83%AD%E5%BA%AD%E5%A6%A4.pdf)
+* 創新產業：銀行業 
+
+  創新主題：高價值活動自動化
+  
+  創新功能：市場資訊供應、投資管理
+  
+  創新項目：新興平台、賦權投資者
+***
 ## HW1: collect at least two customized rule-based patterns with indices
 * Use Hanging man, hammer, dark cloud cover, and piercing pattern as the detecting signals
 
