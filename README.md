@@ -4,7 +4,8 @@ NTU 109-1 Financial Innovation
 ## 個人專題報告: 銀行財富管理第三方整合平台
 * 影片連結：https://youtu.be/g7i093_WbWM
 
-  個人專題報告：[檔案](https://github.com/Tingyu27/Financial-Innovation/blob/master/%E5%80%8B%E4%BA%BA%E5%B0%88%E9%A1%8C%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A_R08723024_%E9%83%AD%E5%BA%AD%E5%A6%A4.pdf)
+  個人專題報告：[檔案.pdf](https://github.com/Tingyu27/Financial-Innovation/blob/master/%E5%80%8B%E4%BA%BA%E5%B0%88%E9%A1%8C%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A_R08723024_%E9%83%AD%E5%BA%AD%E5%A6%A4.pdf)
+  /  [檔案.pptx](https://github.com/Tingyu27/Financial-Innovation/blob/master/%E5%80%8B%E4%BA%BA%E5%B0%88%E9%A1%8C%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A_R08723024_%E9%83%AD%E5%BA%AD%E5%A6%A4.pptx)
 * 創新產業：銀行業 
 
   創新主題：高價值活動自動化
